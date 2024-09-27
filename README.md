@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Ffr%2Fsearch%3Fk%3Ddevops&psig=AOvVaw3MS6MBCjJKk-t8LsuywE5q&ust=1727535026000000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDAt8-v44gDFQAAAAAdAAAAABAR)
+
 <h1 align="center">Hi 👋, I'm Achref Ochi</h1>
 <h3 align="center">A passionate DevOps and Cloud Computing Engineering Student</h3>
 
